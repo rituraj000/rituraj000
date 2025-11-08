@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://3-d-portfolio-one-beryl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj2306/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](riturajpanday2306@gmail.com)
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
 
@@ -43,35 +43,38 @@ const rituraj = {
 
 ## 🔥 Featured Projects
 
-### 🤖 [Raj Bot - AI Chat Assistant](https://github.com/rituraj000/Ai-Bot)
-*November 2025*
+### 🌊 UPLIVE — The Indian Social Media
+*(Focus on Scale, Real-time, and Collaboration)*
 
-**An intelligent chat assistant powered by Google's Gemini 2.0 Flash AI**
+Orchestrated a scalable backend with Node.js & Express, integrating WebSockets for real-time messaging and notifications, and JWT/OAuth for secure user authentication.
 
-- 🚀 **Tech Stack**: Next.js 15, React 19, TypeScript, Google AI API, Tailwind CSS
-- ⚡ **Features**: Real-time streaming, Context-aware conversations, Responsive UI
-- 🎨 **Highlights**: Modern design with Framer Motion animations
-- 🌐 **Live Demo**: [Visit Raj Bot](https://github.com/rituraj000/Ai-Bot)
+Architected a mobile-first React front-end with TypeScript, dynamically rendering user-generated content from Cloudinary and managing complex state for feeds and profiles.
 
-```typescript
-// Key Achievement: Real-time AI streaming integration
-const aiResponse = await streamText({
-  model: google("gemini-2.0-flash"),
-  messages: convertToModelMessages(messages),
-});
-```
+Spearheaded the end-to-end deployment on Vercel, implementing a CI/CD pipeline with GitHub Actions that accelerated the release cycle by 40%.
 
-### 🌟 [3D Interactive Portfolio](https://3-d-portfolio-one-beryl.vercel.app/)
-*2025*
+---
 
-**Immersive 3D portfolio showcasing projects and skills**
+### ✅ Task Manager — Productivity App
+*(Focus on Security, Architecture, and UX)*
 
-- 🎮 **Tech Stack**: Three.js, React, WebGL, Framer Motion
-- 🎯 **Features**: Interactive 3D models, Smooth animations, Responsive design
-- 🏆 **Achievement**: Created engaging user experience with 3D graphics
+Engineered a secure RESTful API with Node.js and MongoDB to handle all CRUD operations for user tasks, implementing robust data validation and error handling.
 
-### 💼 More Projects Coming Soon...
-*Currently working on exciting new projects in AI, Web3, and Full-Stack development*
+Developed an interactive React interface with Tailwind CSS, utilizing hooks for local state management to provide instant UI updates upon user actions.
+
+Enforced data privacy through JWT authentication and role-based access control, ensuring users could only access and modify their assigned tasks.
+
+---
+
+### 🤖 Raj Bot — Intelligent AI Chat Assistant
+*(Focus on Cutting-Edge Tech and Performance)*
+
+Integrated Google's Gemini 2.0 Flash model via Vercel AI SDK, implementing server-sent events (SSE) to stream AI responses with near-instantaneous latency.
+
+Built a type-safe, component-based frontend with Next.js 15 and React 19, styled with Tailwind CSS and Radix UI for a fully responsive and accessible user interface.
+
+Deployed the production application on Vercel, configuring environment variables for secure API key management and ensuring high reliability with zero-downtime releases.
+
+---
 
 ---
 
