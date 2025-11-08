@@ -52,6 +52,8 @@ Architected a mobile-first React front-end with TypeScript, dynamically renderin
 
 Spearheaded the end-to-end deployment on Vercel, implementing a CI/CD pipeline with GitHub Actions that accelerated the release cycle by 40%.
 
+- 🌐 **Live Demo**: [UPLIVE — live site](https://uplive-the-indian-social-media.vercel.app/)
+
 ---
 
 ### ✅ Task Manager — Productivity App
@@ -63,6 +65,8 @@ Developed an interactive React interface with Tailwind CSS, utilizing hooks for 
 
 Enforced data privacy through JWT authentication and role-based access control, ensuring users could only access and modify their assigned tasks.
 
+- 🌐 **Live Demo**: [Task Manager — live site](https://task-manager-six-pied.vercel.app/)
+
 ---
 
 ### 🤖 Raj Bot — Intelligent AI Chat Assistant
@@ -73,6 +77,8 @@ Integrated Google's Gemini 2.0 Flash model via Vercel AI SDK, implementing serve
 Built a type-safe, component-based frontend with Next.js 15 and React 19, styled with Tailwind CSS and Radix UI for a fully responsive and accessible user interface.
 
 Deployed the production application on Vercel, configuring environment variables for secure API key management and ensuring high reliability with zero-downtime releases.
+
+- 🌐 **Live Demo**: [Raj Bot — live demo](https://ai-bot-chi-lime.vercel.app/)
 
 ---
 
@@ -179,8 +185,8 @@ Learning:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF5722?style=for-the-badge)](https://3-d-portfolio-one-beryl.vercel.app/)
-[![AI Bot](https://img.shields.io/badge/🤖_Raj_Bot-Try_My_AI-4285F4?style=for-the-badge)](https://github.com/rituraj000/Ai-Bot)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](#)
+[![AI Bot](https://img.shields.io/badge/🤖_Raj_Bot-Try_My_AI-4285F4?style=for-the-badge)]( https://ai-bot-chi-lime.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/rituraj2306/)
 [![Email](https://img.shields.io/badge/📧_Email-Say_Hello-D14836?style=for-the-badge)](#)
 
 ---
@@ -199,6 +205,5 @@ Learning:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rituraj000&style=for-the-badge&color=blueviolet)
 
-*Last updated: November 2025*
 
 </div>
