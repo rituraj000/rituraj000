@@ -1,209 +1,108 @@
-# Hi there! I'm Rituraj 👋
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://3-d-portfolio-one-beryl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj2306/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](riturajpanday2306@gmail.com)
+# Rituraj Panday
 
-### 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
+**Full-Stack Developer · AI Integration · Open to Collaboration**
 
-*Passionate about creating innovative web applications and exploring cutting-edge technologies*
+Passionate about building end-to-end web applications — from real-time social platforms to AI-powered chat interfaces. I care about clean architecture, thoughtful UX, and shipping things that actually work.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logoColor=white)](https://3-d-portfolio-one-beryl.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj2306/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:riturajpanday2306@gmail.com)
+[![Raj Bot](https://img.shields.io/badge/Raj%20Bot-Try%20Live-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai-bot-chi-lime.vercel.app/)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About
 
-```javascript
+```typescript
 const rituraj = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["Web Development", "AI/ML", "React", "Node.js", "System Design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
-            css: ["Tailwind CSS", "Styled Components", "SCSS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "Next.js API"],
-            python: ["Django", "FastAPI", "Flask"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        cloud: ["AWS", "Vercel", "Netlify", "Firebase"],
-        tools: ["Docker", "Git", "Postman", "VS Code"]
-    },
-    currentFocus: "Building AI-powered applications",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+  code:    ["JavaScript", "TypeScript", "Python", "Java"],
+  focus:   ["React", "Node.js", "Next.js", "AI Integration"],
+  data:    ["MongoDB", "PostgreSQL", "Redis"],
+  cloud:   ["AWS", "Vercel", "Docker"],
+  current: "Building AI-powered web applications",
+  funFact: "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
 ---
 
-## 🔥 Featured Projects
+## Projects
 
-### 🌊 UPLIVE — The Indian Social Media
-*(Focus on Scale, Real-time, and Collaboration)*
+### UPLIVE — Indian Social Media Platform
+Scalable social platform built for real-time interaction and content delivery.
 
-Orchestrated a scalable backend with Node.js & Express, integrating WebSockets for real-time messaging and notifications, and JWT/OAuth for secure user authentication.
+- Orchestrated a backend with **Node.js & Express**, integrating **WebSockets** for real-time messaging and JWT/OAuth for authentication
+- Built a mobile-first **React + TypeScript** frontend with dynamic content rendering via Cloudinary
+- Implemented a CI/CD pipeline with **GitHub Actions** on Vercel, reducing release cycle time by 40%
 
-Architected a mobile-first React front-end with TypeScript, dynamically rendering user-generated content from Cloudinary and managing complex state for feeds and profiles.
-
-Spearheaded the end-to-end deployment on Vercel, implementing a CI/CD pipeline with GitHub Actions that accelerated the release cycle by 40%.
-
-- 🌐 **Live Demo**: [UPLIVE — live site](https://uplive-the-indian-social-media.vercel.app/)
+🌐 [Live Site](https://uplive-the-indian-social-media.vercel.app/) · `Node.js` `React` `WebSockets` `Cloudinary` `Vercel`
 
 ---
 
-### ✅ Task Manager — Productivity App
-*(Focus on Security, Architecture, and UX)*
+### Task Manager — Productivity Web App
+Secure, role-aware task management with a clean, responsive interface.
 
-Engineered a secure RESTful API with Node.js and MongoDB to handle all CRUD operations for user tasks, implementing robust data validation and error handling.
+- Engineered a **RESTful API** with Node.js and MongoDB with robust validation and error handling
+- Built an interactive **React + Tailwind CSS** UI with instant state updates on user actions
+- Enforced privacy via **JWT authentication** and role-based access control
 
-Developed an interactive React interface with Tailwind CSS, utilizing hooks for local state management to provide instant UI updates upon user actions.
-
-Enforced data privacy through JWT authentication and role-based access control, ensuring users could only access and modify their assigned tasks.
-
-- 🌐 **Live Demo**: [Task Manager — live site](https://task-manager-six-pied.vercel.app/)
+🌐 [Live Site](https://task-manager-six-pied.vercel.app/) · `Node.js` `MongoDB` `React` `Tailwind CSS`
 
 ---
 
-### 🤖 Raj Bot — Intelligent AI Chat Assistant
-*(Focus on Cutting-Edge Tech and Performance)*
+### Raj Bot — AI Chat Assistant
+Streaming AI assistant with near-instant responses and an accessible interface.
 
-Integrated Google's Gemini 2.0 Flash model via Vercel AI SDK, implementing server-sent events (SSE) to stream AI responses with near-instantaneous latency.
+- Integrated **Google Gemini 2.0 Flash** via Vercel AI SDK using server-sent events (SSE) for streaming
+- Built with **Next.js 15** and **React 19**, styled using Tailwind CSS and Radix UI for full accessibility
+- Deployed on Vercel with zero-downtime releases and secure API key management
 
-Built a type-safe, component-based frontend with Next.js 15 and React 19, styled with Tailwind CSS and Radix UI for a fully responsive and accessible user interface.
-
-Deployed the production application on Vercel, configuring environment variables for secure API key management and ensuring high reliability with zero-downtime releases.
-
-- 🌐 **Live Demo**: [Raj Bot — live demo](https://ai-bot-chi-lime.vercel.app/)
+🌐 [Live Demo](https://ai-bot-chi-lime.vercel.app/) · `Next.js` `Gemini AI` `Radix UI` `Vercel AI SDK`
 
 ---
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### AI & Emerging Tech
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Vue.js, Tailwind CSS |
+| **Backend** | Node.js, Express, Python, Django, FastAPI, Flask |
+| **Databases** | MongoDB, PostgreSQL, MySQL, Redis |
+| **Cloud & DevOps** | AWS, Vercel, Netlify, Firebase, Docker, GitHub Actions |
+| **AI & ML** | Google Gemini, OpenAI API, Vercel AI SDK, TensorFlow |
+| **Tools** | Git, Postman, VS Code |
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rituraj000&show_icons=true&theme=tokyonight&hide_border=true" alt="Rituraj's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rituraj000&theme=tokyonight&hide_border=true" alt="Rituraj's GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rituraj000&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="48%" />
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🤖 **AI Integration Expert**: Successfully integrated Google Gemini AI with streaming responses
-- 🚀 **Full-Stack Proficiency**: Built end-to-end applications with modern tech stacks
-- 🎨 **UI/UX Excellence**: Created responsive, accessible, and visually appealing interfaces
-- 📱 **Mobile-First Development**: Expertise in responsive design and cross-platform compatibility
-- 🔧 **Performance Optimization**: Implemented efficient code splitting, lazy loading, and optimization techniques
-- 🌐 **Deployment Mastery**: Successfully deployed applications on Vercel, AWS, and other platforms
-
----
-
-## 📈 Current Focus
+## 2025 Focus
 
 ```yaml
-2025_Goals:
-  - 🤖 Master AI/ML integration in web applications
-  - 🌐 Explore Web3 and blockchain development  
-  - 📚 Contribute to open-source projects
-  - 🚀 Build scalable, production-ready applications
-  - 🎓 Share knowledge through technical writing
-
-Learning:
-  - Advanced React patterns and performance optimization
+learning:
+  - AI/ML integration in production web applications
   - Microservices architecture and system design
-  - Machine Learning and AI model integration
   - DevOps and cloud infrastructure
+
+building:
+  - Next-generation apps with real AI features
+  - Scalable, production-ready systems
+
+contributing:
+  - Open-source projects
+  - Technical writing and knowledge sharing
 ```
 
 ---
 
-## 💡 What I'm Working On
-
-- 🔬 **Research**: Exploring AI-powered development tools
-- 🛠️ **Building**: Next-generation web applications with AI integration
-- 📖 **Learning**: Advanced system design and scalability patterns
-- 🤝 **Collaborating**: Open to exciting project collaborations
-
----
-
-## 🌟 Fun Facts
-
-- 🎯 I love solving complex problems with elegant solutions
-- 🎮 Gaming enthusiast - it helps me think creatively about UX
-- 📚 Constantly learning new technologies and frameworks
-- ☕ Coffee-powered developer (definitely a coffee > tea person!)
-- 🎨 I believe good code is like good design - simple yet powerful
-
----
-
-## 📫 Let's Connect!
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF5722?style=for-the-badge)](https://3-d-portfolio-one-beryl.vercel.app/)
-[![AI Bot](https://img.shields.io/badge/🤖_Raj_Bot-Try_My_AI-4285F4?style=for-the-badge)]( https://ai-bot-chi-lime.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/rituraj2306/)
-[![Email](https://img.shields.io/badge/📧_Email-Say_Hello-D14836?style=for-the-badge)](#)
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
----
+**Always open to discussing new opportunities, collaborations, or just talking tech.**
 
-**💭 "Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-*Always excited to discuss new opportunities, collaborate on projects, or just chat about technology!*
-
-**⭐ If you find my work interesting, don't forget to star my repositories!**
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=rituraj000&style=for-the-badge&color=blueviolet)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=rituraj000&style=flat-square&color=blueviolet)](https://github.com/rituraj000)
 
 </div>
